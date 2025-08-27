@@ -14,8 +14,8 @@ tags: ["doctrina", "virtud cristiana"]
 En el versículo de base, habla el apóstol San Pablo, dando testimonio de los hermanos en la iglesia de Roma, por la vida que llevaban abudandte en buenas obras.
 
 ## La bondad, fruto del Espíritu
-- Efesios 5:9 "Porque el fruto del Espíritu es en toda bondad, y justicia, y verdad" 
-- Gálatas 5:22-23 "Mas el fruto del Espíritu es: ... benignidad, bondad, fe, mansedumbre ..." 
+- Efesios 5:9 _"Porque el fruto del Espíritu es en toda bondad, y justicia, y verdad"_ 
+- Gálatas 5:22-23 _"Mas el fruto del Espíritu es: ... benignidad, bondad, fe, mansedumbre ..."_ 
 
 
 ## Testimonios bíblicos: 
@@ -44,7 +44,7 @@ Junto con otras virtudes, la bondad y la guianza de Jesucristo producen mucho fr
 
 ## La oración como medio para pedir esta virtud al Señor
 
-La oración del apostol San Pablo en favor de la iglesia de Tesalónica consistía en pedir al Señor que hiciera abundar la bondad en ellos. "_...Dios os tenga por dignos de su vocación, e **hincha de bodad** todo buen intento, y toda obra de fe con potencia_" 2a Tesalonicenses 1:11-12
+La oración del apostol San Pablo en favor de la iglesia de Tesalónica consistía en pedir al Señor que hiciera abundar la bondad en ellos. _"...Dios os tenga por dignos de su vocación, e **hincha de bondad** todo buen intento, y toda obra de fe con potencia"_ 2a Tesalonicenses 1:11-12
 
 ## Conclusiones
 
