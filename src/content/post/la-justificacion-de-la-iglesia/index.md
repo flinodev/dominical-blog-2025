@@ -52,10 +52,15 @@ Romanos 4:25
 Gracias a los méritos gloriosos de Jesucristo, y mediante la fe en su nombre, el hombre alcanza la paz con Dios y una promesa de vida eterna. Romanos 5:1-2
 
 ## Recusos adicionales
-Presentación [link](https://docs.google.com/presentation/d/1CD1SrtiEDx9AXclZeBWvrogsAa9dg3-d/edit?usp=sharing&ouid=117254556331876564574&rtpof=true&sd=true)
 
-## Cuestionario
+### Cuestionario
 
 Se invita al alumno a reforzar sus conocimientos mediante la aplicación de una sencilla evaluación.
 
-[Realiza la evaluación aquí](https://docs.google.com/forms/d/e/1FAIpQLSdEnNPmYcmp6lA9k4qmvkBurwR3oLEhyrhtH6ZoPlem_6K0bA/viewform?usp=header)
+[Realiza la evaluación aquí](https://docs.google.com/forms/d/e/1FAIpQLScKFYzTWhV1GXzKX0ANn3eH70vMiDHkGLSDHbKZpMHBouA18w/viewform?usp=sharing&ouid=112915739176438052476)
+
+### Presentación
+
+Adicionalmente, te compartimos la información en una presentación en formato PDF para que la descargues y puedas consultarla aún sin conexión.
+
+[Puedes descargar la presentación aquí](https://drive.google.com/file/d/1Yg-of9lbzu_rB0vyYsNpx2s0WCVFq5gH/view?usp=sharing)
