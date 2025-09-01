@@ -50,9 +50,18 @@ La oración del apostol San Pablo en favor de la iglesia de Tesalónica consist�
 
 Siendo guiados por el Espíritu del Señor, nuestro ser sentirá la inclinación natural por hacer el bien a todos. Dejemos que el Señor obre a través de nosotros, para así llevar mucho fruto para honra y gloria de aquél que nos llamó. 
 
+## Recusos adicionales
 
-## Cuestionario
+Puedes complementar tu estudio con los siguientes recursos.
+
+### Cuestionario
 
 Se invita al alumno a reforzar sus conocimientos mediante la aplicación de una sencilla evaluación.
 
 [Realiza la evaluación aquí](https://docs.google.com/forms/d/e/1FAIpQLSdEnNPmYcmp6lA9k4qmvkBurwR3oLEhyrhtH6ZoPlem_6K0bA/viewform?usp=header)
+
+### Presentación
+
+Adicionalmente, te compartimos la información en una presentación en formato PDF para que la descargues y puedas consultarla aún sin conexión.
+
+[Puedes descargar la presentación aquí](https://drive.google.com/file/d/1D0fArcWd-VVpY2Kn6__E4AIfE-YMlcd-/view?usp=sharing)
