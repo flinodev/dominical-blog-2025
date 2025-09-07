@@ -9,9 +9,9 @@ tags: ["doctrina", "controversia"]
 ## Introducción
 
 Santificación: Acción y efecto de santificar.  
-Santificar: Es separar, hacer a alguien santo en medio por medio de la gracia.
+Santificar: Es separar, hacer a alguien **santo** en medio por medio de la gracia.
 
-En su saludo incial, Pablo llama santos a los hermanos de la iglesia de Corinto.
+En su saludo incial, Pablo llama **santos** a los hermanos de la iglesia de Corinto.
 
 >A la iglesia de Dios que está en Corinto, santificados en Cristo Jesús, llamados santos...
 
@@ -19,7 +19,7 @@ En la base de esta lección resalta la obra transformadora del Señor en los her
 
 ## Santificación como forma de vida
 
-La naturaleza santa de Dios exige que sus hijos sean santos. El mandamiento ya de antaño se había dado a Israel
+La **naturaleza santa** de Dios exige que sus hijos sean santos. El mandamiento ya de antaño se había dado a Israel
 
 >Santificaos, pues, y sed santos, porque yo Jehová soy vuestro Dios.   
 
@@ -33,17 +33,17 @@ En el tiempo de la gracia la exigencia sigue vigente
 
 ## La sangre de Cristo, poderosa para santificar
 
-Aunque la sangre de machos cabríos podía purificar la carne, solo la sangre de Cristo tiene el poder de limpiar las conciencias de las obras de muerte. Hebreos 9:13-14
+Aunque la sangre de machos cabríos podía purificar la carne, solo **la sangre de Cristo** tiene el poder de **limpiar las conciencias** de las obras de muerte. Hebreos 9:13-14
 
->¿Cuánto más la sangre de Cristo, el cual por el Espíritu eterno se ofreció a sí mismo sin mancha a Dios, limpiará vuestras conciencias de las obras de la muerte para que sirváis al Dios vivo?
+>¿Cuánto más la sangre de Cristo, el cual por el Espíritu eterno se ofreció a sí mismo sin mancha a Dios, **limpiará vuestras conciencias** de las obras de la muerte para que sirváis al Dios vivo?
 
->...y la sangre de Jesucristo su Hijo nos limpia de todo pecado
+>...y **la sangre de Jesucristo** su Hijo **nos limpia** de todo pecado
 
 1a Juan 1:7
 
 ### El sacrificio de Cristo, ofrenda perfecta
 
-A diferencia de los sacrificios ofrecidos cada año por el sumo sacerdote en los tiempos de la ley, en el tiempo de la gracia con una sola ofrenda (el sacrificio del Cordero de Dios) fue suficiente para hacer perfectos para siempre a los santificados. Hebreos 10:14
+A diferencia de los sacrificios ofrecidos cada año por el sumo sacerdote en los tiempos de la ley, en el tiempo de la gracia con **una sola ofrenda** (el sacrificio del Cordero de Dios) fue suficiente para hacer perfectos para siempre a los santificados. Hebreos 10:14
 
 ### La santificación, fruto de la vida cristiana
 
@@ -53,7 +53,7 @@ Una vez que el Señor nos aparta, nos libra del pecado y nos hace siervos suyos,
 
 Romanos 6:22
 
->Porque la voluntad de Dios es vuestra santificación: que os apartéis de fornicación: que cada uno sepa tener su vaso en santificación y honor.
+>Porque la **voluntad de Dios** es vuestra **santificación**: que os apartéis de fornicación: que cada uno sepa tener su vaso en santificación y honor.
 
 1a Tesalonicenses 4:3-4
 
@@ -61,16 +61,16 @@ Romanos 6:22
 
 Siendo la obra de santificación perfecta y suficiente en nuestras vidas, por la gracia del Señor y su sangre poderosa, nos corresponde mantenerla continuamente en ese estado de perfección.
 
->Así que, amados, pues tenemos tales promesas, limpiémonos de toda inmudicia de carne y de espíritu, perfeccionando la santificación en temor de Dios. 
+>Así que, amados, pues tenemos tales promesas, **limpiémonos de toda inmudicia** de carne y de espíritu, **perfeccionando la santificación** en temor de Dios. 
 
 2a Corintios 7:1
 
->El que es injusto, sea injusto todavía; y el que es sucio, ensúciese todavía; y el que es justo, sea todavía justificado; y el santo, sea santificado todavía.
+>El que es injusto, sea injusto todavía; y el que es sucio, ensúciese todavía; y **el que es justo, sea todavía justificado**; y el santo, sea santificado todavía.
 
 Apocalípsis 22:11
 
 
-:::tip
+:::important[Importante]
 La santidad, **requisito para ver a Dios**
 >Seguid la paz con todos y la santidad, sin la cual nadie verá al Señor
 
@@ -79,10 +79,20 @@ Hebreos 12:14
 
 ## Conclusión
 
-Dios ya limpio nuestra conciencias de las obras de la muerte, nos ha santificado, y nos ha apartado para su servicio. Nos correponde a nosotros vivir la vida que él preparo para nosotros, una vida de santidad y de justicia, apartandonos de todo mal. De esta manera tendremos franca entrada en los cielos y veremos al Señor.
+Dios ya limpio nuestra conciencias de las obras de la muerte, nos ha santificado, y nos ha apartado para su servicio. Nos correponde a nosotros **vivir la vida que él preparo** para nosotros, una vida de santidad y de justicia, apartandonos de todo mal. De esta manera tendremos franca entrada en los cielos y veremos al Señor.
 
-:::tip
+:::note[Reflexiona]
 >Y cualquiera que tiene esta esperanza en él, se purifica, como él también es limpio.
 
 1a Juan 3:3
 :::
+
+## Recusos adicionales
+
+### Cuestionario
+
+Se invita al alumno a reforzar sus conocimientos mediante la aplicación de una sencilla evaluación.
+
+[Realiza la evaluación aquí](https://docs.google.com/forms/d/e/1FAIpQLSeztdXnij9XUWJDH62XGEKE6-gb4QoMu7OrGEMfja-LK9dIuA/viewform?usp=sharing&ouid=112915739176438052476)
+
+
