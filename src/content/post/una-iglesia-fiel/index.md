@@ -16,7 +16,7 @@ Es el Apóstol San Pablo quien en su saludo a la iglesia de Efeso, les atribuye 
 
 ## Condiciones de la salvación
 
-La promesa del Señor en cuanto a la salvación del alma, tiene condiciones. Siendo Jesús el Soberano de este reino, tiene la facultad de establecerlas. Dos de las condiciones más importantes son: la fidelidad y la perseverancia.
+La promesa del Señor en cuanto a la salvación del alma, tiene condiciones y siendo Jesús el Soberano de este reino, tiene la facultad de establecerlas. La fidelidad y la perseverancia, son dos de las condiciones requeridas.
 
 ### Fidelidad
 
@@ -28,11 +28,11 @@ Para alcanzar las promesas de la vida eterna es necesario permanecer fieles hast
 Hebreos 10::38-39
 :::
 
-## Perseverancia
+### Perseverancia
 La **perseverancia** en este camino, a pesar de las adversidades, las tentaciones, las pruebas, etc, le garantiza al creyente la salvación de su alma.
 
-:::note[A considerar]
->Y por haberse multiplicado la maldad, la caridad de muchos se resfriará. Mas el que **perseverare** hasta el fin, éste será **salvo**.
+:::warning[Precaución]
+>Y por haberse **multiplicado la maldad**, la caridad de muchos se **resfriará**. Mas el que **perseverare** hasta el fin, éste será **salvo**.
 
 San Mateo 24:12
 :::
@@ -63,21 +63,34 @@ Razones suficientes para alcanzar aquello que el Señor le había prometido:
 El hijo de Dios asume con responsabilidad y fidelidad todo lo que tiene bajo su cuidado y busca cumplir cabalmente sus compromisos en entera lealtad.
 
 :::important[Importante]
-El que es fiel en lo muy poco, también en lo más es fiel: y el que en lo muy poco es injusto, también en lo más es injusto.
+El que es **fiel** en lo muy poco, también en lo más es **fiel**: y el que en lo muy poco es injusto, también en lo más es injusto.
 
 San Lucas 16:10
 :::
 
 ## La recompensa del fiel
 
-Hay recompensaa una vida fiel, que ha sido probada y sujeta a tribulaciones en la que tiene como premio la corona de la vida.
+Hay recompensa a una vida fiel, que ha sido probada y sujeta a tribulaciones. Quien vive su vida sujeta a la voluntad de Dios, tiene como premio la corona de la vida.
 
 :::tip[A considerar]
-Y su señor le dijo: Bien, buen siervo y fiel; sobre poco has sido fiel, sobre mucho te pondré: entra en el gozo de tu señor.
+Y su señor le dijo: Bien, buen siervo y fiel; sobre poco **has sido fiel**, sobre mucho te pondré: entra en el gozo de tu señor.
 
 San Mateo 25:21
 :::
 
 ## Conclusión
 
-El camino del Señor a veces es difícil, pero el Señor ha prometido estar con nosotros todos los días nuestra vida y hasta el fin del mundo. Además si somos fieles hasta la muerte el Señor nos dará la corona de la vida. Apocalipsis 2:10.
+El camino del Señor a veces es difícil, pero él ha prometido estar con nosotros todos los días de nuestra vida y hasta el fin del mundo. Además si somos fieles hasta la muerte el Señor nos dará la corona de la vida.
+
+>No tengas ningún temor de las cosas que **has de padecer**. He aquí, el diablo ha de enviar algunos de vosotros á la cárcel, para que seáis probados, y tendréis tribulación de diez días. Sé **fiel hasta la muerte**, y yo te daré la **corona de la vida**.
+
+Apocalipsis 2:10.
+
+## Recusos adicionales
+
+### Cuestionario
+
+Se invita al alumno a reforzar sus conocimientos mediante la aplicación de una sencilla evaluación.
+
+[Realiza la evaluación aquí](https://docs.google.com/forms/d/e/1FAIpQLSeuT1wV6bNg00MlephLhvKRABdw3V7fXIsUhH5bxmU_09Uh1w/viewform?usp=sharing&ouid=112915739176438052476)
+
